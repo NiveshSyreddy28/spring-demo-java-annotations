@@ -1,0 +1,5 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«ª—Φ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Φ¦σσωÿÿÿÿ
+
+java:S1128"_Remove this unused import 'org.springframework.context.support.ClassPathXmlApplicationContext'.(•ΛΫόÿÿÿÿ8ε΅”Π0
